@@ -3,9 +3,6 @@ Repo for modified AME playbooks for WOA Helper
 
 The only difference is that the charging requirement has been removed.
 
-# LINK TO AME WIZARD:
-[CLICK HERE](https://download.ameliorated.io/AME%20Wizard%20Beta.zip)
-
 ## Why does this repo exist?
 Because charging in WoA is problematic. Some devices don't support it at all, while others are very picky when it comes to the cables and chargers it actually accepts.
 
